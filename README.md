@@ -7,10 +7,10 @@ I'm a **4th-year B.Tech Computer Science (AI & ML)** student at **VNR Vignana Jy
 ## 🧰 My Tech Toolbox  
 
 - **Programming Languages:** Java, C++, Python, C  
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Web Technologies:** HTML, CSS, JavaScript, EJS, Bootstrap, Tailwind CSS  
 - **Frameworks & Libraries:** React.js, Node.js, Express.js  
 - **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
 
 ---
 
